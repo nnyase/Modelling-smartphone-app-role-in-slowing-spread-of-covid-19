@@ -1,0 +1,2 @@
+# Modelling-smartphone-app-role-in-slowing-spread-of-covid-19
+Researching and simulating the effectiveness of smartphone tracking applications that track users that have the coronavirus and alert others in the same vicinity as them. My colleagues and I used Net-logo (Development tool for agent-based analytical modelling) to simulate the complex behaviour of people with and without the application 
